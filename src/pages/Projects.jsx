@@ -4,42 +4,42 @@ const projects = [
   {
     title: "E-commerce Moderno",
     description: "Tienda online con React, Node.js y Stripe para pagos seguros.",
-    image: "/logo.png",
+    image: "./logo.png",
     technologies: ["React", "Node.js", "MongoDB", "Stripe"],
     link: "#"
   },
   {
     title: "App de Gestión de Tareas",
     description: "Aplicación para organizar tareas con notificaciones en tiempo real.",
-    image: "/logo.png",
+    image: "./logo.png",
     technologies: ["React", "Firebase", "Tailwind CSS"],
     link: "#"
   },
   {
     title: "Dashboard de Analytics",
     description: "Panel de control con gráficos interactivos y métricas en tiempo real.",
-    image: "/logo.png",
+    image: "./logo.png",
     technologies: ["React", "Chart.js", "API REST"],
     link: "#"
   },
   {
     title: "Blog Personal",
     description: "Blog con sistema de comentarios y administración de contenido.",
-    image: "/logo.png",
+    image: "./logo.png",
     technologies: ["Next.js", "MySQL", "CSS Modules"],
     link: "#"
   },
   {
     title: "Sistema de Gestión",
     description: "Aplicación completa de gestión empresarial con múltiples módulos.",
-    image: "/logo.png",
+    image: "./logo.png",
     technologies: ["Vue.js", "Laravel", "PostgreSQL"],
     link: "#"
   },
   {
     title: "App Móvil",
     description: "Aplicación móvil multiplataforma con funcionalidades avanzadas.",
-    image: "/logo.png",
+    image: "./logo.png",
     technologies: ["React Native", "Express", "MongoDB"],
     link: "#"
   }

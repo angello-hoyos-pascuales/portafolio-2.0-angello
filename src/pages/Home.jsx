@@ -72,7 +72,7 @@ export default function Home() {
               <div className="absolute inset-2 rounded-2xl bg-gradient-to-tr from-white to-gray-100 p-3 shadow-2xl">
                 <div className="w-full h-full rounded-xl overflow-hidden bg-gradient-to-br from-blue-50 to-indigo-100 p-1">
                   <img 
-                    src="/imagen angello.png" 
+                    src="./imagen angello.png" 
                     alt="Angello Hoyos" 
                     className="w-full h-full rounded-lg object-cover shadow-xl transform hover:scale-105 transition-transform duration-300"
                   />

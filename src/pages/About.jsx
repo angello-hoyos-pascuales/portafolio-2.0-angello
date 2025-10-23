@@ -13,7 +13,7 @@ export default function About() {
           <div className="flex flex-col lg:flex-row items-center gap-8 mb-12">
             <div className="flex-shrink-0 relative">
               <div className="w-48 h-48 rounded-full bg-gradient-to-br from-blue-400 to-indigo-600 p-1">
-                <img src="/imagen angello.png" alt="Angello Hoyos" className="w-full h-full rounded-full object-cover shadow-lg" />
+                <img src="./imagen angello.png" alt="Angello Hoyos" className="w-full h-full rounded-full object-cover shadow-lg" />
               </div>
               <div className="absolute -bottom-2 -right-2 bg-green-500 w-8 h-8 rounded-full flex items-center justify-center">
                 <span className="text-white text-xs font-bold">✓</span>
